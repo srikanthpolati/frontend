@@ -1,0 +1,8 @@
+  DeleteOnTermination: Boolean
+  Encrypted: Boolean
+  Iops: Integer
+  KmsKeyId: String
+  SnapshotId: String
+  Throughput: Integer
+  VolumeSize: Integer
+  VolumeType: String
